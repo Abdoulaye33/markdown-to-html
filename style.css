@@ -6,21 +6,15 @@ body {
     
     
 }
-
-table{
-    border: 2px solid #774F38;  
+th, td {
+    border: 1px solid #c5c5c5;
+    padding: 8px;
     text-align: center;
+    border-radius: 10px;
 }
-td {
-    border: 1px solid #FA6900;
+
+a {
+    text-decoration: none;
+    color: rgb(245, 245, 245);
 }
-table{
-    border: 2px solid #774F38;
-    border-collapse: collapse;  
-}
-td {
-    padding: 5px 10px; 
-}
-.histoire {
-    font-size: 15px;
-}
+
