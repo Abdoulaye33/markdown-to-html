@@ -1,0 +1,26 @@
+body {
+    background-color: rgba(2, 2, 20, 0.952);
+    color: white;
+    padding-left: 140px;
+    padding-right: 100px;
+    
+    
+}
+
+table{
+    border: 2px solid #774F38;  
+    text-align: center;
+}
+td {
+    border: 1px solid #FA6900;
+}
+table{
+    border: 2px solid #774F38;
+    border-collapse: collapse;  
+}
+td {
+    padding: 5px 10px; 
+}
+.histoire {
+    font-size: 15px;
+}
